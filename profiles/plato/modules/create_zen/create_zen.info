@@ -1,0 +1,8 @@
+; $Id$
+name = Create Zen
+description = Downloads and creates the Zen theme and also sets up the Poetic architecture for responsive.
+core = 7.x
+version = "7.x-1.0"
+
+;files[] = includes/create_zen.drush.inc
+files[] = create_zen.drush.inc
